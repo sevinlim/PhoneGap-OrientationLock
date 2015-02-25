@@ -1,6 +1,6 @@
 # OrientationLock #
 
-Android Cordova plugin for locking/unlocking the screen orientation from Javascript
+Android and iOS Cordova plugin for locking/unlocking the screen orientation from Javascript
 
 ## Calling the plugin ##
 
@@ -25,5 +25,5 @@ Once unlocked, you can track orientation changes with the regular `orientationch
 Using this plugin requires [Apache Cordova for Android](https://github.com/apache/cordova-android).
 Within your project, run the following command:
 
-    cordova plugin add https://github.com/cogitor/PhoneGap-OrientationLock.git
+    cordova plugin add https://github.com/sevinlim/PhoneGap-OrientationLock.git
 
